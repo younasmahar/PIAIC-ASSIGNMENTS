@@ -1,4 +1,3 @@
-
 print("Name : Muhammad Younas")
 print("Father Name : Dhani Bakhsh")
 print("Status : Student")
